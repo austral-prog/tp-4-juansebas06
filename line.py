@@ -16,4 +16,4 @@ def line():
     print("\nDados los siguientes puntos:")
     print(f"\tP1 ({x1}, {y1})")
     print(f"\tP2 ({x2}, {y2})")
-    print(f"\nLa distancia entre ellos es:, {d}")
+    print(f"\nLa distancia entre ellos es: {d}")
